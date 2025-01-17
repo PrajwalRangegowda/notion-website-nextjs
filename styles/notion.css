@@ -18,10 +18,10 @@
 }
 
 .title {
-  font-family: 'Anta';
-  color: rgb(8, 8, 8);
-  font-weight: 800;
-  font-size: large;
+    font-family: Tektur;
+    color: #080808;
+    font-weight: 800;
+    font-size: x-large;
 }
 
 .dark-mode .title{

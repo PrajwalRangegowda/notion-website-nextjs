@@ -117,9 +117,9 @@ background-color: rgb(255, 255, 255 , 0.4);
 
 
 .notion-gallery-grid {
-  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  /* grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); */
   grid-gap: 15px;
-  gap: 15px;
+  gap: 25px;
 }
 
 .notion-gallery-grid .notion-page-icon-inline {
